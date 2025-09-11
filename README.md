@@ -14,6 +14,6 @@ que permite combinar consignas de código Python con un espacio para que escriba
 y pruebes el código equivalente en C#.
 
 Abre [este
-link](https://mybinder.org/v2/gh/ucudal/PII_Desafio_Objetos_Clases_1/main?urlpath=%2Fdoc%2Ftree%2Findex.ipybn)
+link](https://mybinder.org/v2/gh/ucudal/PII_Desafio_Objetos_Clases_1/main?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
 para acceder a **Binder**. Ten paciencia, el sitio puede demorar en mostarse. La
 página que vas a ver, tiene las instrucciones para completar los desaríos.
